@@ -1,2 +1,2 @@
 # color-hunt
-Github scavenger hunt to learn how to navigate repos!
+HINT #1: Start where the rainbow begins!
