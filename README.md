@@ -1,2 +1,2 @@
 # color-hunt
-HINT #1: Start where the rainbow begins!
+K   HINT #5: Now go to the end of the rainbow!
